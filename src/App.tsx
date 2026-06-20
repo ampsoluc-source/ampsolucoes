@@ -209,7 +209,7 @@ export default function AMPLandingPage() {
           <div className="relative h-[500px]">
             <div className="absolute inset-0 bg-gradient-to-br from-[#1a9caa]/15 to-[#d4af37]/10 rounded-2xl blur-3xl" />
             <img
-              src="amp.png"
+              src="amp2.png"
               alt="Profissional de elétrica"
               className="relative w-full h-full object-cover rounded-2xl shadow-2xl border border-[#1a9caa]/20"
             />
