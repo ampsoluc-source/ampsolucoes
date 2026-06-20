@@ -142,7 +142,7 @@ export default function AMPLandingPage() {
           <div className="hidden lg:flex relative h-[600px] items-center justify-center">
             <div className="absolute inset-0 bg-gradient-to-br from-[#1a9caa]/20 to-[#d4af37]/10 rounded-2xl blur-3xl" />
             <img
-              src="https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=900&h=1200&fit=crop"
+              src="amp2.png"
               alt="Painel elétrico profissional"
               className="relative w-full h-full object-cover rounded-2xl shadow-2xl border border-[#1a9caa]/20"
             />
@@ -206,7 +206,7 @@ export default function AMPLandingPage() {
           <div className="relative h-[500px]">
             <div className="absolute inset-0 bg-gradient-to-br from-[#1a9caa]/15 to-[#d4af37]/10 rounded-2xl blur-3xl" />
             <img
-              src="/f7c5dbf6-f3ae-455c-8ea8-4e44d8ed7134.jpeg"
+              src="/foto.png"
               alt="Profissional de elétrica"
               className="relative w-full h-full object-cover rounded-2xl shadow-2xl border border-[#1a9caa]/20"
             />
