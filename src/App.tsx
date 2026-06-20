@@ -1,4 +1,4 @@
-import Portfolio from './Portfolio';
+import Portfolio from './Portfolio.tsx';
 
 export default function AMPLandingPage() {
   const whatsappLink = 'https://wa.me/5519996428354?text=Olá,%20preciso%20de%20um%20eletricista';
