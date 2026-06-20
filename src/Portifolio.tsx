@@ -17,14 +17,14 @@ const items: PortfolioItem[] = [
     badge: 'Automação',
     title: 'Automação e Painéis de Comando',
     desc: 'Montagem e parametrização de painéis de automação industrial utilizando Soft-Starters WEG (Série SSW07) e inversores de frequência para controle preciso de motores.',
-    img: '/painelar.jpg',
+    img: '/painelar1.jpg',
   },
   {
     category: 'industrial',
     badge: 'Maquinário',
     title: 'Manutenção de Maquinário Pesado',
     desc: 'Assistência técnica especializada, manutenção preventiva e corretiva em tornos mecânicos Nardini, fresadoras e equipamentos de usinagem industrial.',
-    img: '/revisaomotor.jpg',
+    img: '/revisaomotor1.jpg',
   },
   {
     category: 'industrial',
